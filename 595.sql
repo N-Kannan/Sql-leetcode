@@ -1,4 +1,5 @@
-# Write your MySQL query statement below
+#595. Big Countries
+
 #A country is big if:
 
 #it has an area of at least three million (i.e., 3000000 km2), or
@@ -9,6 +10,7 @@
 
 #The query result format is in the following example.
 
+# Write your MySQL query statement below
 
 select 
     name,
