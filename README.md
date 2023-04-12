@@ -10,3 +10,6 @@ Here i will show case my Leet Code SQL Problem solving
 . 10/4/2023 Day 2 Select & Order (1873,627,196) 3 Problum's
 
 . 11/4/2023 Day 3 String Processing Functions (1667,1484,1527) 3 Problum's
+
+. 12/4/2023 Day 4 String Processing Functions (1965,1795,608,176) 4 Problum's
+
