@@ -11,5 +11,5 @@ Here i will show case my Leet Code SQL Problem solving
 
 . 11/4/2023 Day 3 String Processing Functions (1667,1484,1527) 3 Problum's
 
-. 12/4/2023 Day 4 String Processing Functions (1965,1795,608,176) 4 Problum's
+. 12/4/2023 Day 4 Union & Select (1965,1795,608,176) 4 Problum's
 
